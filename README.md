@@ -9,8 +9,7 @@
 
 <img align='center' src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/200w.webp?cid=790b7611eb2lrpnxhp09xqym8g0kjmn5dyfrazkygqre3nap&ep=v1_stickers_search&rid=200w.webp&ct=s" width="20">  Welcome to my Github page ! I am Inaki and I am currently studying self-taught !
 
-<img align="right" alt="img" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3c5ZWR2bjExbnBhNDgzaHVjZjFlNGx6ZmE3NzRpZXEzMWEyeGV4OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp" width="50%" height="auto" />
-
+<img align="right" alt="img" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3c5ZWR2bjExbnBhNDgzaHVjZjFlNGx6ZmE3NzRpZXEzMWEyeGV4OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp" width="50%" height="50%" />
 
 <img align='center' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJ3eGhuNTNlZ3o3a2t6bjIwazF3ZDQwOWU3bGZ4eWdpYWw2NHNjdyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/v7SjO1ZNywAPY3O1nm/giphy.gif" width="20"> About me
 - I'm from Argentina Buenos Aires
@@ -26,7 +25,8 @@
 
 
 <img align='center' src="https://media4.giphy.com/media/8m4gPv1UFz1jmiCtKd/giphy.gif?cid=ecf05e47qf1pxudx704h0utaf310rvy3tyww6xa1r8z34xvv&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="20"> Programming languages and tools:
-
+<p>
+  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=InakiCarcereny&show_icons=true&hide_border=true" />
 <code><img src="https://img.icons8.com/color/48/000000/javascript.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/react-native.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></code>
@@ -40,8 +40,6 @@
 <code><img src="https://img.icons8.com/?size=48&id=20906&format=png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></code>
 <code><img src="https://img.icons8.com/?size=48&id=lckHFUP7nJhG&format=png"/></code>
+</p>
 
-
-
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=InakiCarcereny&show_icons=true&hide_border=true" />
 
