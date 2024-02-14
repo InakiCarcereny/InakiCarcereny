@@ -25,7 +25,7 @@
 - Run 5 times a week
 
 
-Programming languages and tools:
+<img align='center' src="https://media4.giphy.com/media/8m4gPv1UFz1jmiCtKd/giphy.gif?cid=ecf05e47qf1pxudx704h0utaf310rvy3tyww6xa1r8z34xvv&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="20"> Programming languages and tools:
 
 <code><img src="https://img.icons8.com/color/48/000000/javascript.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/react-native.png"/></code>
