@@ -26,22 +26,9 @@
 - Run 5 times a week
 
 
-<h3><img align='center' src="https://media4.giphy.com/media/8m4gPv1UFz1jmiCtKd/giphy.gif?cid=ecf05e47qf1pxudx704h0utaf310rvy3tyww6xa1r8z34xvv&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="20">  Programming languages and tools:</h3>
+
 <p>
   <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=InakiCarcereny&show_icons=true&hide_border=true" />
-<code><img src="https://img.icons8.com/color/48/000000/javascript.png"/></code>
-<code><img src="https://img.icons8.com/color/48/000000/react-native.png"/></code>
-<code><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></code>
-<code><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></code>
-<br />
-<code><img src="https://img.icons8.com/color/48/000000/npm.png"/></code>
-<code><img src="https://img.icons8.com/color/48/000000/css3.png"/></code>
-<code><img src="https://img.icons8.com/color/48/000000/html-5.png"/></code>
-<code><img src="https://img.icons8.com/color/48/000000/powershell.png"/></code>
-<br />
-<code><img src="https://img.icons8.com/?size=48&id=20906&format=png"/></code>
-<code><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></code>
-<code><img src="https://img.icons8.com/?size=48&id=lckHFUP7nJhG&format=png"/></code>
 </p>
 
 
