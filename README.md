@@ -1,7 +1,7 @@
 <h1 align='center'>Hi, i'm Inaki Carcereny🚀</h1>
 
 <p>
-  <img align="right" height=400px width=300px src='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGl2NTNwamxkOGQ2MXhxeGVydHI0MWdlYXIxNXJ1MXlqOXZhNTczYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rRUkyPRSt4JdKXT30P/giphy.webp'>
+  <img align="right" height=510px width=300px src='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGl2NTNwamxkOGQ2MXhxeGVydHI0MWdlYXIxNXJ1MXlqOXZhNTczYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rRUkyPRSt4JdKXT30P/giphy.webp'>
 </p>
 
 <h3>
@@ -42,6 +42,14 @@ I'm 19 years old and, after a year in engineering, I discovered my true passion 
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 </div>
+
+<h3>
+  Another tools
+</h3>
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Arc](https://img.shields.io/badge/Arc-000000?style=for-the-badge&logo=arc&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
 <p>
   <img width=300px align="right" src="https://github-readme-stats.vercel.app/api?username=InakiCarcereny&show_icons=true&hide_border=true" />
