@@ -1,5 +1,19 @@
 <h1 align='center'>Hi, i'm Inaki Carcereny🚀</h1>
 
+<p>
+  <img align="right" src='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGl2NTNwamxkOGQ2MXhxeGVydHI0MWdlYXIxNXJ1MXlqOXZhNTczYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rRUkyPRSt4JdKXT30P/giphy.webp'>
+</p>
+
+<h3>
+  👾 About me
+</h3>
+
+I'm 19 years old and, after a year in engineering, I discovered my true passion in web development as a self-taught, specializing in Front-End. I focus on creating responsive and attractive interfaces, with unique designs focused on the user experience. My goal is to provide clean, scalable and reusable code, always applying best practices. I am constantly learning to continue improving and provide innovative solutions in the world of web development.
+
+<h3>
+  My skills
+</h3>
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -13,14 +27,22 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-👾 ***About me***
+<h3>
+  Social Media
+</h3>
 
-I'm 19 years old and, after a year in engineering, I discovered my true passion in web development as a self-taught, specializing in Front-End. I focus on creating responsive and attractive interfaces, with unique designs focused on the user experience. My goal is to provide clean, scalable and reusable code, always applying best practices. I am constantly learning to continue improving and provide innovative solutions in the world of web development.
-
+<div>
+  <a href="https://www.instagram.com/inaki.carce/">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+<a href="https://x.com/Inaki_Dev">
+<img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/i%C3%B1aki-carcereny-77b555316/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+</div>
 
 <p>
-  <img width=300px align='right' src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXczanIxeWFieXduZ2x2eGc4Yzd4NWg4cGptc3B4NWgxZWN6dHQ0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jgvhr9prZ1cWqJk29K/giphy.webp'/>
-  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=InakiCarcereny&show_icons=true&hide_border=true" />
+  <img width=300px align="right" src="https://github-readme-stats.vercel.app/api?username=InakiCarcereny&show_icons=true&hide_border=true" />
 </p>
-
-
