@@ -1,7 +1,7 @@
 <h1 align='center'>Hi, i'm Inaki Carcereny🚀</h1>
 
 <p>
-  <img align="right" src='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGl2NTNwamxkOGQ2MXhxeGVydHI0MWdlYXIxNXJ1MXlqOXZhNTczYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rRUkyPRSt4JdKXT30P/giphy.webp'>
+  <img align="right" height=400px width=300px src='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGl2NTNwamxkOGQ2MXhxeGVydHI0MWdlYXIxNXJ1MXlqOXZhNTczYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rRUkyPRSt4JdKXT30P/giphy.webp'>
 </p>
 
 <h3>
