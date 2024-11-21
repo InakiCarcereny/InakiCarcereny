@@ -1,7 +1,5 @@
 <h1>¡Hey👋! Im Inaki 💻</h1>
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/InakiCarcereny)
-[![Hotmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:inakicarce@hotmail.com.ar)
 [![Twitter](https://img.shields.io/badge/-Twitter-000?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/_juancchhi)
 [![Instagram](https://img.shields.io/badge/-Instagram-c14438?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/inaki.carce/)
 
