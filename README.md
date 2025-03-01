@@ -8,7 +8,9 @@
   👾 About me
 </h3>
 
-I'm 19 years old and, after a year in engineering, I discovered my true passion in web development as a self-taught, specializing in Front-End. I focus on creating responsive and attractive interfaces, with unique designs focused on the user experience. My goal is to provide clean, scalable and reusable code, always applying best practices. I am constantly learning to continue improving and provide innovative solutions in the world of web development.
+I am 19 years old and, after a year in systems engineering, I discovered my true passion in web development. I specialized in Front-End on my own, creating responsive, attractive interfaces focused on user experience.
+Currently, I am studying the Technical Degree in Programming at the UTN, which allows me to strengthen my knowledge and expand my skills.
+I focus on writing clean, scalable and reusable code, always applying best practices. I am constantly learning solutions to continue improving and providing innovative solutions in the world of web development.
 
 <h3>
   My skills
