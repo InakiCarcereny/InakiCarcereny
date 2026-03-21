@@ -8,7 +8,7 @@
   👾 About me
 </h3>
 
-I am 19 years old and, after a year in systems engineering, I discovered my true passion in web development. I specialized in Front-End on my own, creating responsive, attractive interfaces focused on user experience.
+I am 20 years old and, after a year in systems engineering, I discovered my true passion in web development. I specialized in Front-End on my own, creating responsive, attractive interfaces focused on user experience.
 Currently, I am studying the Technical Degree in Programming at the UTN, which allows me to strengthen my knowledge and expand my skills.
 I focus on writing clean, scalable and reusable code, always applying best practices. I am constantly learning solutions to continue improving and providing innovative solutions in the world of web development.
 
@@ -23,35 +23,14 @@ I focus on writing clean, scalable and reusable code, always applying best pract
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)
+![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-
-<h3>
-  Social Media
-</h3>
-
-<div>
-  <a href="https://www.instagram.com/inaki.carce/">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
-<a href="https://x.com/Inaki_Dev">
-<img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/i%C3%B1aki-carcereny-77b555316/">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-</div>
-
-<h3>
-  Another tools
-</h3>
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Arc](https://img.shields.io/badge/Arc-000000?style=for-the-badge&logo=arc&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)
 
 <p>
   <img width=300px align="right" src="https://github-readme-stats.vercel.app/api?username=InakiCarcereny&show_icons=true&hide_border=true" />
